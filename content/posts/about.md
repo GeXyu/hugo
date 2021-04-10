@@ -10,8 +10,7 @@ author: "real_ge"                  # 作者
 
 ## 个人信息
 
- - real_ge
- - 工作年限：3年+
+ - ge
  - Email: gexyuzz@gmail.com
  - 职位：开发工程师
 
