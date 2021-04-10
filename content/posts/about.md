@@ -5,7 +5,7 @@ date: 2020-11-12T23:25:23+08:00    # 创建时间
 lastmod: 2020-11-12T23:25:23+08:00 # 最后修改时间
 draft: false                       # 是否是草稿？
 # categories: ["index"]              # 分类
-author: "real_ge"                  # 作者
+author: "ge"                  # 作者
 ---
 
 ## 个人信息
