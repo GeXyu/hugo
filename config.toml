@@ -61,7 +61,6 @@ busuanzi = true # 是否使用不蒜子统计站点访问量
 staticCDNPrefix = "https://cdn.bootcss.com/font-awesome/5.11.2"
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 postAds = ""
-# profileAds = '<div class="bg-white shadow"><a href="https://www.vultr.com/?ref=7444869"><img class="object-cover w-auto mx-auto mt-6" src="https://s1.ex2x.com/2020/11/14/4RWD.png" alt="可以按小时计费的VPS"></a></div>'
 profileAds = '<div class="bg-white shadow"><a href="https://curl.qcloud.com/hFIbbPnZ"><img class="object-cover w-auto mx-auto mt-6" src="https://gitee.com/huangxd/imges/raw/master/小书匠/1607005821458.png" alt="【腾讯云】腾讯云服务器安全可靠高性能，多种配置供您选择"></a></div>'
 notFoundAds = ''
 
