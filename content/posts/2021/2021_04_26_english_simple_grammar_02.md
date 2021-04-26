@@ -7,6 +7,8 @@ tags: ['语法']                             # 标签[,]
 categories: ['英语']                       # 分类 [,]
 author: "ge"                  # 作者
 ---
+
+### 词性与句子成分的关系
 英文句子有其内在的规律：一个英语句子，不论长或短、简单或复杂，无外乎都是由八种成分所组成的，它们分别是主语、谓语、表语、宾语、宾语补足语（简称宾补）、定语、状语和同位语。我们实际看到的很多句子，往往都是在简单句的基础之上，借助定语或者状语等枝干成分对某些主干成分再作进一步的修饰。首先，我们从简单的单词和词组来看，关于以上所提及到的八种成分可以分别有哪些词性的词来充当呢？因为所涉及的句子成分和词性比较的多，这里我们给大家总结了一张表格，我们一起来仔细看看这个表格，表格所反映的正是词性与句子成分之间的关系。
 
 | 词性/句子成分 | 主语 | 谓语 | 表语 | 宾语 | 宾补 | 定语 | 状语 | 同位语 |
@@ -23,7 +25,7 @@ author: "ge"                  # 作者
 - 从表格的横列来看，我们不难发现：除了动词和副词能充当的成分比较单一之外，其它四种词性均可以在句中充当多种成分。
 
 我们弄明白了什么样的词性可以充当什么样的句子成分之后呢，现在，我们来将之前所讲解的五大基本句型作进一步的扩充，看看简单句是如何通过借助定语、状语和同位语这些枝干成分来作进一步修饰的。
-
+### 短文
 [Seven-sentence Love Story]
 
 ①A handsome boy Nick met a beautiful girl Elsa. ②They dated frequently not long after that. ③Suddenly one day, Nick bought Elsa an engagement ring. ④His proposal made Elsa extremely happy. ⑤She thought herself the happiest woman. ⑥Not surprisingly, this couple finally got married. ⑦In many people’s eyes, they were a perfect match for each other
@@ -123,7 +125,7 @@ they were a perfect match for each other.
 - A perfect match名词短语作表语
 
 我们可以看出：通过单词或者短语来充当一定的句子成分，只能表达相对简单一点的意思；要想表达稍微复杂一点的意思时，我们就必须依靠一些其它结构来实现。这里提到的其它结构主要有两大类：一类是`非谓语动词`，具体包括动词不定式、动名词和分词；另一类则是`从句`，具体包括名词性从句、定语从句和状语从句。
-
+### 六种结构
 那这六种结构又可以分别充当哪些句子成分呢？大家请看下面这张表格：
 
 | 词性/句子成分 | 主语 | 表语 | 宾语 | 宾补 | 定语 | 状语 | 同位语 |
