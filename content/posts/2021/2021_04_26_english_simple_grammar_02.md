@@ -39,9 +39,7 @@ A handsome boy Nick met a beautiful girl Elsa.
 ```
 
 - 主谓宾：A boy met a girl.  
-
 - handsome / beautiful 为形容词作定语修饰名词boy / girl
-
 - Nick / Elsa 为名词作同位语补充说明名词boy / girl 
 
 #### 例句2
@@ -53,9 +51,7 @@ They dated frequently not long after that.
 ```
 
 - 主谓：They dated.
-
 - frequently为副词修饰前面的动词date
-
 - not long after that 为表示时间的副词短语
 
 #### 例句3
@@ -67,7 +63,6 @@ Nick bought Elsa an engagement ring.
 ```
 
 - 主谓间宾直宾：Nick bought Elsa a ring.
-
 - engagement为名词作定语修饰名词ring
 
 #### 例句4
@@ -79,9 +74,7 @@ His proposal made Elsa extremely happy.
 ```
 
 - 主谓宾宾补：His proposal made Elsa happy.
-
 - happy形容词作宾语补足语
-
 - extremely为副词修饰其后面的形容词happy
 
 #### 例句5
@@ -93,9 +86,7 @@ She thought herself the happiest woman.
 ```
 
 - 主谓宾宾补：She thought herself a woman.
-
 - woman名词作宾语补足语
-
 - the happiest形容词的最高级修饰其后面的名词woman
 
 #### 例句6
@@ -107,9 +98,7 @@ this couple finally got married.
 ```
 
 - 主系表：this couple got married.
-
 - married形容词作表语
-
 - finally为副词修饰动词got
 
 #### 例句7
@@ -121,7 +110,6 @@ they were a perfect match for each other.
 ```
 
 - 主系表：they were a perfect match.
-
 - A perfect match名词短语作表语
 
 我们可以看出：通过单词或者短语来充当一定的句子成分，只能表达相对简单一点的意思；要想表达稍微复杂一点的意思时，我们就必须依靠一些其它结构来实现。这里提到的其它结构主要有两大类：一类是`非谓语动词`，具体包括动词不定式、动名词和分词；另一类则是`从句`，具体包括名词性从句、定语从句和状语从句。
