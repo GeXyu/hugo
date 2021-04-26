@@ -204,31 +204,3 @@ a:focus {
 .dict .pcolor a:nth-child(8n) { background: #83AF9B }
 .dict .pcolor a:first-child { background: #036564 }
 .dict .pcolor a:last-child { background: #3299BB }
-
-
-
-
-
-.post-content table {
-	border-width: 1px;
-	border-color: #666666;
-	border-collapse: collapse;
-}
-
-.post-content table th {
-	border-width: 1px;
-	padding: 8px;
-	border-style: solid;
-  background-color: #dedede;
-	border-color: #666666;
-}
-
-.dark .post-content table th {
-	background-color: #374151;
-}
-.post-content table td {
-	border-width: 1px;
-	padding: 8px;
-	border-style: solid;
-	border-color: #666666;
-}
