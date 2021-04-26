@@ -204,10 +204,8 @@ a:focus {
 .dict .pcolor a:nth-child(8n) { background: #83AF9B }
 .dict .pcolor a:first-child { background: #036564 }
 .dict .pcolor a:last-child { background: #3299BB }
-
-
-
-
+/*------------*/
+/*---表格----*/
 .post-content table:not(.hljs-ln) {
 	border-width: 1px;
 	border-color: #666666;
@@ -231,3 +229,12 @@ a:focus {
 	border-style: solid;
 	border-color: #666666;
 }
+@media screen and (max-width: 600px) {
+  table:not(.hljs-ln) td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+}
+/*------------*/
