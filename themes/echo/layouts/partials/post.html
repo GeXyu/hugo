@@ -2,16 +2,16 @@
 <section class="w-full lg:w-3/4 xl:w-3/4">
 
     <!--Card-->
-    <div class="px-8 py-6 mt-6 lg:mt-0 leading-normal rounded shadow bg-white dark:bg-black">
+    <div class="px-8 py-6 mt-6 lg:mt-0 leading-normal rounded shadow bg-white">
 
         <!--Title-->
         {{ partial "posts/title.html" . }}
 
-        <div class="md:hidden dark:text-gray-100">
+        <div class="md:hidden">
             {{ partial "posts/toc.html" . }}
         </div> 
 
-        <div class="post-content dark:text-white">
+        <div class="post-content">
             {{ .Content }}
 
             <hr class="bg-gray-300 mt-8">
@@ -33,6 +33,18 @@
                 {{ end }}                    
             </div>
         {{ end }}
+        
+        <!--Categories  -->
+        {{ with .Params.categories -}}
+            <div class="text-base md:text-sm text-gray-500 pt-6">
+                {{ range . -}}
+                <a class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 hover:bg-gray-300"
+                    href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{ end }}">
+                    @{{ . }}
+                </a>
+                {{ end }}                    
+            </div>
+        {{ end }}
 
          <!-- Counter busuanzi -->
         {{ if .Site.Params.busuanzi }}
@@ -47,7 +59,7 @@
     <!--/Card-->
 
     <!--divider-->
-    <hr class="bg-gray-300 dark:bg-gray-300 my-10 ">
+    <hr class="bg-gray-300 my-10">
 
     {{ if in (slice "post" "posts") .Type }}
         {{ if .Site.Params.postAds }}
@@ -71,8 +83,8 @@
 
     {{ partial "posts/profile.html" . }}
 
-    <div class="flex flex-col justify-between sticky top-0 pt-12 pb-4 -mt-10 text-gray-600 dark:text-gray-400">
-        <div class="bg-white shadow rounded p-4 mt-5 dark:bg-black">
+    <div class="flex flex-col justify-between sticky top-0 pt-12 pb-4 -mt-10 text-gray-600">
+        <div class="bg-white shadow rounded p-4 mt-5">
             {{ partial "posts/toc.html" . }}
         </div>
     </div>
