@@ -229,12 +229,13 @@ a:focus {
 	border-style: solid;
 	border-color: #666666;
 }
-@media screen and (max-width: 600px) {
-  table:not(.hljs-ln) td:before {
-    content: attr(data-label);
-    float: left;
-    text-transform: uppercase;
-    font-weight: bold;
-  }
+
+@media screen and (max-width: 700px) {
+   .post-content table:not(.hljs-ln) td:before {
+     content: attr(data-label);
+     float: left;
+     text-transform: uppercase;
+     font-weight: bold;
+   }
 }
 /*------------*/
