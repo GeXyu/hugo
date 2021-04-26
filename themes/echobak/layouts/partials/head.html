@@ -10,6 +10,9 @@
     {{ if .Site.Params.keywords }}<meta name="keywords" content="{{ .Site.Params.keywords }}" />{{ end }}
     <meta name="og:site_name" content="{{ .Site.Title }}" />
 
+    <meta name="google-site-verification" content="wn8mOuIxFFhFf6ycXQxopDNNA9yJAto_wBtqf_g0Nxc" />
+    <meta name="baidu-site-verification" content="code-6KmzNuEBrE" />
+
     {{- if .IsHome -}}
 
     <meta property="og:type" content="website" />
@@ -47,16 +50,21 @@
     <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-png" />
     {{- end -}}
 
-    {{ $styles := resources.Get "css/main.css" | postCSS (dict "config" "./assets/css/postcss.config.js") }}
-    {{ if .Site.IsServer }}
-      <link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
-    {{ else }}
-      {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
-      <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
-    {{ end }}
 
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "/css/main.css" | relURL }}" />
     <link rel="stylesheet" href="//at.alicdn.com/t/font_1607597_jhmihcvh0tm.css" />
     <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/styles/monokai.min.css">
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/highlight.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/languages/vim.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/languages/yaml.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/languages/dockerfile.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/languages/shell.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>hljs.initLineNumbersOnLoad();</script>
     
     <!-- busuanzi -->
     {{- if .Site.Params.busuanzi -}}
