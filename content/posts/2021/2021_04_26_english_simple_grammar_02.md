@@ -25,7 +25,7 @@ author: "ge"                  # 作者
 - 从表格的横列来看，我们不难发现：除了动词和副词能充当的成分比较单一之外，其它四种词性均可以在句中充当多种成分。
 
 我们弄明白了什么样的词性可以充当什么样的句子成分之后呢，现在，我们来将之前所讲解的五大基本句型作进一步的扩充，看看简单句是如何通过借助定语、状语和同位语这些枝干成分来作进一步修饰的。
-### 短文
+## 短文
 [Seven-sentence Love Story]
 
 ①A handsome boy Nick met a beautiful girl Elsa. ②They dated frequently not long after that. ③Suddenly one day, Nick bought Elsa an engagement ring. ④His proposal made Elsa extremely happy. ⑤She thought herself the happiest woman. ⑥Not surprisingly, this couple finally got married. ⑦In many people’s eyes, they were a perfect match for each other
