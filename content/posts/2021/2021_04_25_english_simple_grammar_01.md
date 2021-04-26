@@ -12,11 +12,11 @@ author: "ge"                  # 作者
 基于五种主干成分，英语句子通常可以划分为五种不同的类型，也就是我们所说的简单句的五种基本句型。关于五种句型的基本结构，可以看下面的小故事
 
 ```
-1.Nike met Elsa. 尼克邂逅了艾尔莎
-2.They detad. 他们约会了
-3.Nick bought Elsa a ring. 尼克给艾尔莎买了钻戒
-4.His proposal made Elsa happy. 他的求婚让艾尔萨很开心
-5.They were a perfect match. 他们是完美的一对
+Nike met Elsa. 尼克邂逅了艾尔莎
+They detad. 他们约会了
+Nick bought Elsa a ring. 尼克给艾尔莎买了钻戒
+His proposal made Elsa happy. 他的求婚让艾尔萨很开心
+They were a perfect match. 他们是完美的一对
 ```
 
 句子中的动词为分界线，可以把句子分割成两部分，即主语部分和谓语部分。
