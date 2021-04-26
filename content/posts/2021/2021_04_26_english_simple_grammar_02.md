@@ -8,7 +8,7 @@ categories: ['英语']                       # 分类 [,]
 author: "ge"                  # 作者
 ---
 
-### 词性与句子成分的关系
+## 词性与句子成分的关系
 英文句子有其内在的规律：一个英语句子，不论长或短、简单或复杂，无外乎都是由八种成分所组成的，它们分别是主语、谓语、表语、宾语、宾语补足语（简称宾补）、定语、状语和同位语。我们实际看到的很多句子，往往都是在简单句的基础之上，借助定语或者状语等枝干成分对某些主干成分再作进一步的修饰。首先，我们从简单的单词和词组来看，关于以上所提及到的八种成分可以分别有哪些词性的词来充当呢？因为所涉及的句子成分和词性比较的多，这里我们给大家总结了一张表格，我们一起来仔细看看这个表格，表格所反映的正是词性与句子成分之间的关系。
 
 | 词性/句子成分 | 主语 | 谓语 | 表语 | 宾语 | 宾补 | 定语 | 状语 | 同位语 |
@@ -30,7 +30,7 @@ author: "ge"                  # 作者
 
 ①A handsome boy Nick met a beautiful girl Elsa. ②They dated frequently not long after that. ③Suddenly one day, Nick bought Elsa an engagement ring. ④His proposal made Elsa extremely happy. ⑤She thought herself the happiest woman. ⑥Not surprisingly, this couple finally got married. ⑦In many people’s eyes, they were a perfect match for each other
 
-#### 例句1
+### 例句1
 
 ```
 A handsome boy Nick met a beautiful girl Elsa. 
@@ -42,7 +42,7 @@ A handsome boy Nick met a beautiful girl Elsa.
 - handsome / beautiful 为形容词作定语修饰名词boy / girl
 - Nick / Elsa 为名词作同位语补充说明名词boy / girl 
 
-#### 例句2
+### 例句2
 
 ```
 They dated frequently not long after that. 
@@ -54,7 +54,7 @@ They dated frequently not long after that.
 - frequently为副词修饰前面的动词date
 - not long after that 为表示时间的副词短语
 
-#### 例句3
+### 例句3
 
 ```
 Nick bought Elsa an engagement ring. 
@@ -65,7 +65,7 @@ Nick bought Elsa an engagement ring.
 - 主谓间宾直宾：Nick bought Elsa a ring.
 - engagement为名词作定语修饰名词ring
 
-#### 例句4
+### 例句4
 
 ```
 His proposal made Elsa extremely happy. 
@@ -77,7 +77,7 @@ His proposal made Elsa extremely happy.
 - happy形容词作宾语补足语
 - extremely为副词修饰其后面的形容词happy
 
-#### 例句5
+### 例句5
 
 ```
 She thought herself the happiest woman. 
@@ -89,7 +89,7 @@ She thought herself the happiest woman.
 - woman名词作宾语补足语
 - the happiest形容词的最高级修饰其后面的名词woman
 
-#### 例句6
+### 例句6
 
 ```
 this couple finally got married. 
@@ -101,7 +101,7 @@ this couple finally got married.
 - married形容词作表语
 - finally为副词修饰动词got
 
-#### 例句7
+### 例句7
 
 ```
 they were a perfect match for each other. 
@@ -113,7 +113,7 @@ they were a perfect match for each other.
 - A perfect match名词短语作表语
 
 我们可以看出：通过单词或者短语来充当一定的句子成分，只能表达相对简单一点的意思；要想表达稍微复杂一点的意思时，我们就必须依靠一些其它结构来实现。这里提到的其它结构主要有两大类：一类是`非谓语动词`，具体包括动词不定式、动名词和分词；另一类则是`从句`，具体包括名词性从句、定语从句和状语从句。
-### 六种结构
+## 六种结构
 那这六种结构又可以分别充当哪些句子成分呢？大家请看下面这张表格：
 
 | 词性/句子成分 | 主语 | 表语 | 宾语 | 宾补 | 定语 | 状语 | 同位语 |
