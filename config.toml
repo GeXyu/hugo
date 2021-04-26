@@ -45,8 +45,8 @@ homepage = "https://blog.tnt.pub/"
 
 [params]
 favicon = "https://gitee.com/XiuYuGe/resource/raw/master/2021/04/touming.png"
-keywords = "Hugo, theme, echo"
-description = "Hugo theme echo example site."
+keywords = "打孔纸带"
+description = "打孔纸带"
 toc = true
 navItems = [
   ["首页", "/"],

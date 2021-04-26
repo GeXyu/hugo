@@ -2,7 +2,7 @@
 title: 简单句基本句型1
 date: 2021-04-25T09:23:52+08:00
 lastmod: 2021-04-25T09:23:52+08:00
-draft: true                       # 是否是草稿
+draft: false                       # 是否是草稿
 tags:  ['语法']                            # 标签[,]
 categories: ['英语']                       # 分类 [,]
 author: "ge"                  # 作者
