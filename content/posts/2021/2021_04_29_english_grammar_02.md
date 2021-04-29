@@ -8,6 +8,7 @@ categories: ['英语']                       # 分类 [,]
 author: "ge"                  # 作者
 ---
 英语有两种语态：主动语态和被动语态。主动语态表示主语是谓语动作的执行者或施动者；被动语态表示主语是谓语动作的承受者或受动者。
+
 ```
 They will widen the road.（主动）
 参考译句：他们将拓宽道路。
@@ -33,6 +34,7 @@ The road will be widened.（被动）
 - 表示一个从过去某时开始发生，一直延续到现在并不知道或不必指出动作的执行
 - 强调动作的承受者
 - 避免变更主语，以求行文通顺
+
 ```
 The audience is asked to keep silence.（不必指出动作的执行者）
 参考译句：观众被要求保持安静。
@@ -50,6 +52,7 @@ The old professor wheeled himself to the platform and was warmly applauded by th
 - 系动词不能用于被动语态（常见的这类动词有：seem、prove、remain、appear、look等）
 - 主动形式表示被动意义的词：某些感官动词或者系动词后加形容词可以表示被动意义（常见的这类动词有：smell, feel, taste, look, prove, wear, sound）
 - 不定式符号在被动语态中不可省略：在主动语态中，如果感官动词和使役动词后的宾语补足语是动词，这个动词前面往往是不带to的，但在被动语态中要带to
+
 ```
 The train for Nanjing will depart from platform 5.（不及物动词）
 参考译句：开往南京的火车将从5号站台发车。

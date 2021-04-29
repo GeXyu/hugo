@@ -17,6 +17,7 @@ author: "ge"                  # 作者
 - 【the＋形容词、分词等】作主语，泛指一类人时，谓语动词用复数形式
 
 ### 例句
+
 ```
 To work hard is necessary.（动词不定式短语）
 参考译句：努力工作是有必要的。
@@ -39,13 +40,15 @@ There is an orange and two apples on the table.（orange是单数名词）
 The wise are perceptive men.（【the wise】泛指「智者」）
 参考译句：聪明人是有洞察力的人。
 ```
-### 复杂句
+## 复杂句
 当主语的构成较为复杂时，主谓一致应当遵循的规则： 
 
 - 主语含有修饰成分时，谓语动词的数要和中心词保持一致（比如：【the＋名词＋of...】这一结构作主语时，由于其中心词是of前面的名词，因此谓语动词的数要和该名词保持一致）
 - 单数名词作主语，后面紧跟as well as、in addition to、including、such as、rather than、(along / combined / coupled / together) with等结构时，谓语动词用单数形式
 - 当主语由not only...but also… / either...or… / neither...nor… / or 连接的时候，谓语动词的单复数与其就近的名词的单复数保持一致，也即“就近原则”
+
 ### 例句
+
 ```
 The number of pages in this book is nine hundred.（中心词number是单数名词）
 参考译句：本书的页数是900。
