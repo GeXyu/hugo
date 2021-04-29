@@ -14,4 +14,13 @@ author: "ge"                  # 作者
 ## 谓语动词
 [时态概述](https://blog.tnt.pub/2021_04_27_english_tense_overview.html)
 
+[主谓一致](https://blog.tnt.pub/2021_04_29_english_grammar_01.html)
+[被动语态](https://blog.tnt.pub/2021_04_29_english_grammar_02.html)
+
+## 非谓语动词
+## 并列句
+## 名词性从句
+## 定语从句
+## 状语从句
+
 ...未完待续
