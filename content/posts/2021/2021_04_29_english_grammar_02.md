@@ -35,6 +35,7 @@ The road will be widened.（被动）
 - 强调动作的承受者
 - 避免变更主语，以求行文通顺  
 
+### 例句
 
 ```
 The audience is asked to keep silence.（不必指出动作的执行者）
@@ -53,6 +54,8 @@ The old professor wheeled himself to the platform and was warmly applauded by th
 - 系动词不能用于被动语态（常见的这类动词有：seem、prove、remain、appear、look等）
 - 主动形式表示被动意义的词：某些感官动词或者系动词后加形容词可以表示被动意义（常见的这类动词有：smell, feel, taste, look, prove, wear, sound）
 - 不定式符号在被动语态中不可省略：在主动语态中，如果感官动词和使役动词后的宾语补足语是动词，这个动词前面往往是不带to的，但在被动语态中要带to  
+
+### 例句
 
 ```
 The train for Nanjing will depart from platform 5.（不及物动词）
