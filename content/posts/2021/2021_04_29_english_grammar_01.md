@@ -19,25 +19,25 @@ author: "ge"                  # 作者
 ### 例句
 
 ```
-To work hard is necessary.（动词不定式短语）
+To work hard (is) necessary.（动词不定式短语）
 参考译句：努力工作是有必要的。
 
-Making speeches is not his strong point.（动名词短语）
+Making speeches (is) not his strong point.（动名词短语）
 参考译句：演讲不是他的特长。
 
-More happiness means more beautiful things.（不可数名词）
+More happiness (means) more beautiful things.（不可数名词）
 参考译句：多一份欢乐就多一份美好。
 
-The student is alert in answering the question.（单数可数名词）
+The student (is) alert in answering the question.（单数可数名词）
 参考译句：这个学生回答问题小心谨慎。
 
-The students are encouraged to think creatively.（复数可数名词）
+The students (are) encouraged to think creatively.（复数可数名词）
 参考译句：学生们被鼓励进行创造性思考。
 
-There is an orange and two apples on the table.（orange是单数名词）
+There (is) an orange and two apples on the table.（orange是单数名词）
 参考译句：桌子上有一只橘子和两个苹果。
 
-The wise are perceptive men.（【the wise】泛指「智者」）
+The wise (are) perceptive men.（【the wise】泛指「智者」）
 参考译句：聪明人是有洞察力的人。
 ```
 ## 复杂句
@@ -50,12 +50,12 @@ The wise are perceptive men.（【the wise】泛指「智者」）
 ### 例句
 
 ```
-The number of pages in this book is nine hundred.（中心词number是单数名词）
+The number of pages (in) this book is nine hundred.（中心词number是单数名词）
 参考译句：本书的页数是900。
 
-The teacher, as well as the students, likes this painting.（teacher是单数名词）
+The teacher, as well as the students, (likes) this painting.（teacher是单数名词）
 参考译句：不仅学生，老师也喜欢这幅油画。
 
-Neither he nor his friends were there at that time.（his friends是复数名词）
+Neither he nor his friends (were) there at that time.（his friends是复数名词）
 参考译句：那个时候他和他的朋友都不在那儿。
 ```
