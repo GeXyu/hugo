@@ -19,7 +19,7 @@ author: "ge"                  # 作者
 在长难句中，一旦看到这三类非谓动词，我们就将其圈出，并在这个词的前面进行断句的划分
 
 ```
-- These are poor kids/*raised) by alcoholic mothers.
+- These are poor kids/(raised) by alcoholic mothers.
 ```
 ### 介词短语P :由介词短语构成的修饰
 常见的介调有：on，in,by,as,with,about,until,after，before，besides,despite..  
