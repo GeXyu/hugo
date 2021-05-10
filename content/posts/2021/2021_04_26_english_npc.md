@@ -13,12 +13,8 @@ author: "ge"                  # 作者
 非谓语动词主要有以下这三类：  
 
 - 动名词（v+ing）
-
 - 不定式(to do)
-
 - 分词(v+ing现在分询／v+ed过去分词）
-
-  
 
 在长难句中，一旦看到这三类非谓动词，我们就将其圈出，并在这个词的前面进行断句的划分
 
@@ -26,15 +22,15 @@ author: "ge"                  # 作者
 These are poor kids/*raised) by alcoholic mothers.
 ```
 ### 介词短语P :由介词短语构成的修饰
-常见的介调有：on，in,by,as,with,about,until,after，before，besides,despite..
+常见的介调有：on，in,by,as,with,about,until,after，before，besides,despite..  
+
 在长句，一旦看到介词，我们也将其圈出，#在这个词的前面进行断句的划分
+
 ```
 They accelerate the development／(by) financial support.
 ```
 ### 从句c：由从句引寻词引导的从句类型的修饰
 常见的从句引导词有：that,what,which，who,whose，where,when，whether,than..    
-
-
 
 在长句中，一旦看到从句引导词，我们也将其圈出，并在这个词的前面进行断句的划分
 
