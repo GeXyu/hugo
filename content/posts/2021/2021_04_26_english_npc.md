@@ -10,11 +10,18 @@ author: "ge"                  # 作者
 ## 一、NPCE什么？
 ### 非谓语动词N
 在句子中，不做句子谓语的动词，被称为非谓语动词。
-非谓语动词主要有以下这三类．
+非谓语动词主要有以下这三类：  
+
 - 动名词（v+ing）
+
 - 不定式(to do)
+
 - 分词(v+ing现在分询／v+ed过去分词）
+
+  
+
 在长难句中，一旦看到这三类非谓动词，我们就将其圈出，并在这个词的前面进行断句的划分
+
 ```
 These are poor kids/*raised) by alcoholic mothers.
 ```
@@ -25,9 +32,12 @@ These are poor kids/*raised) by alcoholic mothers.
 They accelerate the development／(by) financial support.
 ```
 ### 从句c：由从句引寻词引导的从句类型的修饰
-常见的从句引导词有：that,what,which，who,o跹，where,
-when，whether,than..
+常见的从句引导词有：that,what,which，who,whose，where,when，whether,than..    
+
+
+
 在长句中，一旦看到从句引导词，我们也将其圈出，并在这个词的前面进行断句的划分
+
 ```
 He tries to hire people／(that) he likes
 ```
