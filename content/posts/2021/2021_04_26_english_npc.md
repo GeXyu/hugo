@@ -19,7 +19,7 @@ author: "ge"                  # 作者
 在长难句中，一旦看到这三类非谓动词，我们就将其圈出，并在这个词的前面进行断句的划分
 
 ```
-These are poor kids/*raised) by alcoholic mothers.
+- These are poor kids/*raised) by alcoholic mothers.
 ```
 ### 介词短语P :由介词短语构成的修饰
 常见的介调有：on，in,by,as,with,about,until,after，before，besides,despite..  
@@ -27,7 +27,7 @@ These are poor kids/*raised) by alcoholic mothers.
 在长句，一旦看到介词，我们也将其圈出，#在这个词的前面进行断句的划分
 
 ```
-They accelerate the development／(by) financial support.
+- They accelerate the development／(by) financial support.
 ```
 ### 从句c：由从句引寻词引导的从句类型的修饰
 常见的从句引导词有：that,what,which，who,whose，where,when，whether,than..    
@@ -35,7 +35,7 @@ They accelerate the development／(by) financial support.
 在长句中，一旦看到从句引导词，我们也将其圈出，并在这个词的前面进行断句的划分
 
 ```
-He tries to hire people／(that) he likes
+- He tries to hire people／(that) he likes
 ```
 ##  二、NPC引导的修饰从哪里开始？到哪里结束？
 ### 非谓迲动词N：
