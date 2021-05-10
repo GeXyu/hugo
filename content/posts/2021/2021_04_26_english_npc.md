@@ -42,25 +42,23 @@ He tries to hire people／(that) he likes
 - 开始：非谓语动词N  
 - 结束：1下一个NPC前， 2谓语动词前
 ```
-1.These are poor kids／(raised) by alcoholic mothers/  (who) have little sensc Of responsibility. 
-2.These poor kids/(raised) by alcoholic mothers/ (are) from China.
+- These are poor kids／(raised) by alcoholic mothers/  (who) have little sensc Of responsibility. 
+- These poor kids/(raised) by alcoholic mothers/ (are) from China.
 ```
 ### 介词短语P：
 - 开始：介词P
 - 结束：1下一个NPC前， 2名词/代词前
 ```
-1They accelerate the development/ (by) financial support／(from) 
-The government.
-2 By financial support,/(they) accelerate the development.
+- They accelerate the development/ (by) financial support／(from) The government.
+- By financial support,/(they) accelerate the development.
 ```
 
 ### 从句C:
 - 开始：从句引寻词
 - 结束：1下一个前，2谓动词前
 ```
-1 He tries to hire people/(that) he likes/(in) order to cooperate 
-happily,
-2 Hiring people／(that) he likes／(makes) him happy.
+- He tries to hire people/(that) he likes/(in) order to cooperate happily
+- Hiring people／(that) he likes／(makes) him happy.
 ```
 
 ## 三、怎么匹配修饰关系？
