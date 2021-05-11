@@ -1,5 +1,5 @@
 ---
-title: wordpress增加微信推送
+title: Wordpress增加微信推送
 date: 2021-04-30T17:12:32+08:00
 lastmod: 2021-04-30T17:12:32+08:00
 draft: false                       # 是否是草稿
